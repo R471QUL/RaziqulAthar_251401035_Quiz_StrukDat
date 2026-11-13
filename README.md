@@ -165,6 +165,9 @@ Posisi ke-i = (Hash1(key) + i * Hash2(key)) % 20
 ## Cara Menjalankan
 
 | 1. Nilai Mahasiswa | Pilih menu angka. Mulai dari menu **1** untuk menambah data, lalu **3** untuk mengurutkan sebelum memakai menu **5** |
+
 | 2. Perpustakaan | Tambah buku (menu **1**) dan mahasiswa ke antrean (menu **2**) dulu, baru layani peminjaman (menu **3**) |
+
 | 3. Rute Kampus | Pilih menu angka, lalu ketik huruf vertex (A sampai F) saat diminta |
+
 | 4. Hash Table | Tidak ada input. Seluruh pengujian berjalan otomatis dari `main()` dan hasilnya langsung tampil |
