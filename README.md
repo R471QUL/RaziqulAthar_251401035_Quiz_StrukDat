@@ -1,4 +1,4 @@
-##- **Nama / NIM:** Raziqul Athar - 251401035
+## Nama / NIM: Raziqul Athar - 251401035
 
 ## Struktur Folder
 
