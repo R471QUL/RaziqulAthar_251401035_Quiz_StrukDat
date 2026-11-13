@@ -1,13 +1,16 @@
-- **Nama / NIM:** Raziqul Athar - 251401035
-- **Mata kuliah:** Struktur Data
+##- **Nama / NIM:** Raziqul Athar - 251401035
 
 ## Struktur Folder
 
 struktur-data-tugas/
 ├── README.md
+
 ├── quiz_1.cpp
+
 ├── quiz_2.cpp
+
 ├── quiz_3.cpp
+
 └── quiz_4.cpp
 
 ## Deskripsi Program
@@ -171,3 +174,6 @@ Posisi ke-i = (Hash1(key) + i * Hash2(key)) % 20
 | 3. Rute Kampus | Pilih menu angka, lalu ketik huruf vertex (A sampai F) saat diminta |
 
 | 4. Hash Table | Tidak ada input. Seluruh pengujian berjalan otomatis dari `main()` dan hasilnya langsung tampil |
+
+## LINK VIDEO
+https://youtu.be/lCL4wXSndBE?si=DU14-FBaKWIcuMqz
